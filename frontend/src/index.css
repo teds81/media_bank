@@ -1,0 +1,2 @@
+@import "tailwindcss";
+:root{font-family:Inter,Arial,sans-serif;color:#f4f7f8;background:#05090d}*{box-sizing:border-box}body{margin:0;min-width:320px}button,input,select,textarea{font:inherit}::-webkit-scrollbar{width:8px}::-webkit-scrollbar-thumb{background:#26363e;border-radius:20px}

@@ -1,0 +1,7 @@
+{
+  "name":"coach-pronos-media-bank",
+  "private":true,
+  "version":"1.0.0",
+  "scripts":{"dev":"concurrently \"npm --prefix frontend run dev\" \"npm --prefix backend run dev\"","build":"npm --prefix frontend run build","start":"npm --prefix backend start"},
+  "devDependencies":{"concurrently":"^9.2.1"}
+}
